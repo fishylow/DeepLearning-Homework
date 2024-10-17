@@ -17,4 +17,4 @@ For more information about the dataset, you can visit the competition page on Ka
 ## Running the Project
 You can also run this notebook directly in Google Colab by clicking the button below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](link_to_colab_notebook)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nC3zMTRjp5UztroJXmz7ILcctviRdVJy)
