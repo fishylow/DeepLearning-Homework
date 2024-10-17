@@ -1,9 +1,9 @@
 # Deep Learning Homework - Group Zerocool
 
 ## Team Members
-- **Néder Brúnó** (Neptun Code: XXX)
-- **Jenei Ákos** (Neptun Code: XXX)
-- **Tasi Gergő** (Neptun Code: XXX)
+- **Néder Brúnó** (Neptun Code: NQKZUX)
+- **Jenei Ákos** (Neptun Code: EBBUE7)
+- **Tasi Gergő** (Neptun Code: BRY27P)
 
 ## Project Overview
 Our project aims to create a **Convolutional Neural Network (CNN)** that can identify skin cancer in patients using images of affected areas. We will utilize the **ISIC 2024 Challenge** dataset, provided by Kaggle, which contains a wide range of dermoscopic images for skin cancer diagnosis.
