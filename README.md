@@ -1,22 +1,26 @@
 # Deep Learning Homework - Group Zerocool
 
 ## Team Members
-- **Néder Brúnó** (Neptun Code: NQKZUX)
-- **Jenei Ákos** (Neptun Code: EBBUE7)
-- **Tasi Gergő** (Neptun Code: BRY27P)
+- **Néder Brúnó (NQKZUX)**
+- **Jenei Ákos (EBBUE7)**
+- **Tasi Gergő (BRY27P)**
 
 ## Project Overview
-Our project aims to create a **Convolutional Neural Network (CNN)** that can identify skin cancer in patients using images of affected areas. We will utilize the **ISIC 2024 Challenge** dataset, provided by Kaggle, which contains a wide range of dermoscopic images for skin cancer diagnosis. This Project was created as our finals project for **Deep Learning in Practice with Python and LUA** class at **BME VIK**.
+This project applies a **Convolutional Neural Network (CNN)** combined with metadata-driven Dense layers to identify skin cancer from dermoscopic images. We leverage the **ISIC 2024 Challenge** dataset from Kaggle, which provides a wide range of clinical images and metadata for improved diagnosis.
 
-For more information about the dataset, you can visit the competition page on Kaggle: [ISIC 2024 Challenge](https://www.kaggle.com/competitions/isic-2024-challenge).
+**Key Features:**
+- **Hybrid Architecture:** CNN for image feature extraction + Dense layers for metadata.
+- **Data Preprocessing:** One-hot encoding of lesion location, age imputation, class balancing, and image augmentation.
+- **Hyperparameter Tuning:** Automated tuning of CNN and Dense layer configurations using Keras Tuner.
+
+**Dataset:** [ISIC 2024 Challenge](https://www.kaggle.com/competitions/isic-2024-challenge)
 
 ## Repository Structure
-- **DeepLearning-Homework.ipynb**: All of the data, model, and file downloads are centralized in one Jupyter Notebook
-
+- **DeepLearning-Homework.ipynb**: All code (data loading, preprocessing, model building, training, and evaluation) in one Jupyter Notebook.
 
 ## Running the Project
-You can run the model, by setting up the launch parameters in the first few cells and then running the whole notebook.
+1. Configure parameters in the first cells of the notebook.
+2. Run all cells to train and evaluate the model.
 
-You can also run this notebook directly in Google Colab by clicking the button below:
-
+**Try it in Colab:**  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fishylow/DeepLearning-Homework/blob/main/DeepLearning_Homework.ipynb)
