@@ -16,7 +16,7 @@ This project applies a **Convolutional Neural Network (CNN)** combined with meta
 **Dataset:** [ISIC 2024 Challenge](https://www.kaggle.com/competitions/isic-2024-challenge)
 
 ## Repository Structure
-- **DeepLearning-Homework.ipynb**: All code (data loading, preprocessing, model building, training, and evaluation) in one Jupyter Notebook.
+- **DeepLearning-Homework.ipynb**: All the code (data loading, preprocessing, model building, training, and evaluation) in one Jupyter Notebook.
 
 ## Running the Project
 1. Configure parameters in the first cells of the notebook.
