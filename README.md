@@ -8,7 +8,7 @@
 ## Project Overview
 This project applies a **Convolutional Neural Network (CNN)** combined with metadata-driven Dense layers to identify skin cancer from dermoscopic images. We leverage the **ISIC 2024 Challenge** dataset from Kaggle, which provides a wide range of clinical images and metadata for improved diagnosis.
 <details>
-  <summary>**Open for example images, viewer discretion advised**</summary>
+  <summary>Open for example images, viewer discretion advised</summary>
   <img src="https://github.com/user-attachments/assets/aa4c67a3-5a5d-431a-8871-3657dd1e3828" alt="DL results" size="50%">
 
 </details>
